@@ -143,6 +143,11 @@ label, a{ /*при наведении на стрелки или переключатели - курсор изменится*/
     font-family: 'Lato', sans-serif;
     font-size: 20px;
 }
+  
+@media(min-width:0px) and (max-width:320px) {
+    .slider {
+        text-align: center
+    }
 
 	
 	
