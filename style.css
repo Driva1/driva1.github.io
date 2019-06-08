@@ -145,7 +145,7 @@ label, a{ /*при наведении на стрелки или переключатели - курсор изменится*/
 }
   
 @media(min-width:0px) and (max-width:320px) {
-    .image {
+    .slides {
         text-align: center;
             width: 70px;
         }
